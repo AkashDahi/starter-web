@@ -27,3 +27,5 @@ rebase conflicts level2 in Master
 
 
 for conflict File test at master level1
+
+for conflict File test at Master level2
