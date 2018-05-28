@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 This is GIT project which we are using as sample Project ,
 
 A Lot of Lectures are already Submitted
+
+This change was done for Charpter 40
+
+for Chapter 41
