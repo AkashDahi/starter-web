@@ -14,3 +14,6 @@
 
     HTML5, CSS3, Angular, JQuert, AJAX
     jQuery, Modernizr
+
+
+# GIT is Complex as well    
