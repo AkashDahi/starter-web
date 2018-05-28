@@ -8,3 +8,8 @@ Sample website with plenty of files for demos
 
 
 ## GIT and DevOps Training
+
+
+This is GIT project which we are using as sample Project ,
+
+A Lot of Lectures are already Submitted
