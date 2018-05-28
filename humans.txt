@@ -22,3 +22,5 @@
 GIT IS VERY INTERESTING AND EASY TO UNDERSTAND    
 
 RB is also Fun as Merge
+
+rebase conflicts level2 in Master
