@@ -2,4 +2,5 @@
 http 200
 ftp 210
 udp 301
+error 404
 
